@@ -1,0 +1,8 @@
+server:
+  port: 8080
+hefeng:
+  key:
+  apiurl: https://free-api.heweather.net/s6/weather/now?
+bot:
+  name:
+  token:
